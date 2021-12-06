@@ -1,0 +1,16 @@
+{
+    "name": "mardini/php_login_mvc",
+    "description": "Belajar login php mvc",
+    "autoload": {
+        "psr-4": {
+            "Mardini\\PhpLoginMvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mardini",
+            "email": "mardini1414@gmail.com"
+        }
+    ],
+    "require": {}
+}
